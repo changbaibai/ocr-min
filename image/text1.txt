@@ -1,0 +1,6 @@
+Mac- PyCharn彻底卸载
+mysq备份单个表恢复失败
+django migrate报错( You have an
+error in your SQL syntax)
+inux配置别名alas
+python,压缩文件 Django下载zip文件
